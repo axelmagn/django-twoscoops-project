@@ -1,0 +1,3 @@
+-r production.txt
+
+django-toolbelt >=0.0.1,<0.1
